@@ -16,3 +16,5 @@ Providing there's a loan, the calculation is made everyday.
 
 # The possible actions
 ETH can be added or withdrawn by users, along the way.
+
+Thank you !
