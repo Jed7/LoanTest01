@@ -2,6 +2,8 @@
 # This is hard coded. Of course, it should be read and calculated directly....
 bal_user1 = 21.82233503
 bal_user2 = 5.27438039
+print("User 1 as an initial balance of: " + str(bal_user1) + (" ETH"))
+print("User 2 as an initial balance of: " + str(bal_user2) + (" ETH"))
 
 # Calculate percentage of capital for each user
 # Formula is 100 * bal_user2 / ( bal_user1 + bal_user2)
